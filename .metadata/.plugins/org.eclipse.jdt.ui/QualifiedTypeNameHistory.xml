@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="button.OSXButton"/>
+<fullyQualifiedTypeName name="button.CButton"/>
+<fullyQualifiedTypeName name="factory.GUIFactory"/>
+<fullyQualifiedTypeName name="application.ButtonService"/>
+<fullyQualifiedTypeName name="button.WinButton"/>
+<fullyQualifiedTypeName name="factory.WinFactory"/>
+<fullyQualifiedTypeName name="factory.OSXFactory"/>
+</qualifiedTypeNameHistroy>

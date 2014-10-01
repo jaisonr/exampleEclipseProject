@@ -1,0 +1,13 @@
+/**
+ * 
+ */
+package factory;
+
+/**
+ * @author jaison.r
+ *
+ */
+interface GUIFactory {
+
+	public CButton createButton();
+}

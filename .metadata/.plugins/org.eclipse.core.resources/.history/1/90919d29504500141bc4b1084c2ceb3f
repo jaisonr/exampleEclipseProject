@@ -1,0 +1,19 @@
+package client;
+
+import button.WinButton;
+import factory.GUIFactory;
+import application.ButtonService;
+
+public class ClientApplication {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		new ButtonService(createUserButton());
+	}
+
+	private static GUIFactory createUserButton() {
+		// TODO Auto-generated method stub
+		return WinButton;
+	}
+
+}

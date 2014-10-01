@@ -1,0 +1,10 @@
+package factory;
+
+public class WinFactory implements GUIFactory {
+
+	public CButton createButton() {
+		// TODO Auto-generated method stub
+		return new WinButton;
+	}
+
+}
